@@ -1,5 +1,5 @@
-# Olympics
-Project title:Numpy panda
+# Olympics 
+Project title:Olympics Analysis 
 Overview:
 libraries: Numpy and pandas
  
